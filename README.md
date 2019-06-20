@@ -4,7 +4,7 @@ Docker image used to build the frontend. Use this as a base for your CI jobs to 
 Sample `.gitlab-ci.yml`:
 
 ```
-image: node:0.12.4
+image: monsdar/bootcamp-frontend-base
 
 pages:
   script:
