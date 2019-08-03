@@ -1,7 +1,7 @@
 # bootcamp_frontend-base
 Docker image used to build the frontend. Use this as a base for your CI jobs to build your frontend.
 
-Sample `.gitlab-ci.yml`:
+Sample `.gitlab-ci.yml` from [here](https://gitlab.com/monsdar/bootcamp_test):
 
 ```
 image: monsdar/bootcamp-frontend-base
